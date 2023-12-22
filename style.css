@@ -1,0 +1,59 @@
+*{
+    border-radius: 20px;
+}
+
+body {
+    line-height: 20px;
+
+}
+
+.img img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    align-items: left;
+}
+
+.name {
+    margin-left: 15px;
+}
+
+.email {
+    text-align: left;
+    line-height: 0.5;
+    margin-left: 40px;
+}
+
+.about {
+    font-size: 20px;
+    font-family: sans-serif;
+    line-height: 1;
+    margin-left: 15px;
+
+}
+
+.profile {
+    max-width: 60%;
+    margin-left: 15px;
+    line-height: 35px;
+    text-align: left;
+}
+
+.wrapper {
+    background-color: purple;
+    color: white;
+    width: 600px;
+    margin-left: 20px;
+    padding: 8px 15px ;
+    height: 680px;
+}
+
+.button a {
+    background-color: white;
+    padding: 9px 25px;
+    text-decoration: none;
+    font-size: 32px;
+    color: purple;
+    height: 35px;
+    width: 65px;
+}
